@@ -1,0 +1,723 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\songpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\songpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\songpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\songpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\songpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\songpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\songpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\songpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\songpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\songpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\service\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\service\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\songcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Songs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\artistpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\artistpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\models\\songviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\models\\songviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\artistpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\artistpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\albumpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\albumpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\albumpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\albumpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\models\\albumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\models\\albumviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\artistpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\artistpage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\service\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\service\\albumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\interface\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\interface\\ialbumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\service\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\service\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\interface\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\interface\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\songpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\songpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\interface\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\interface\\isongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\artistpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\artistpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\artistpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\artistpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\artistpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\artistpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\albumpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\albumpage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\albumpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\albumpage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\albumpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\albumpage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\views\\albumpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\views\\albumpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Albums.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Artist.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\data\\migrations\\20250212155915_song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\data\\migrations\\20250212155915_song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\data\\migrations\\20250212154907_album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\data\\migrations\\20250212154907_album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\data\\migrations\\20250212154331_artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\data\\migrations\\20250212154331_artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|c:\\users\\rohit kumar\\downloads\\musiclyrics\\musiclyrics\\musiclyrics\\musiclyrics\\data\\migrations\\20250303192041_songupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B320CFD-C976-4D09-8CD0-CDA3F7889353}|MusicLyrics\\MusicLyrics.csproj|solutionrelative:musiclyrics\\data\\migrations\\20250303192041_songupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SongPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\SongPageController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\SongPageController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\SongPageController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\SongPageController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAwwGEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:31:45.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\SongPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Index.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\SongPage\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:32:25.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\SongPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Details.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\SongPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:32:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\SongPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Create.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\SongPage\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:33:10.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\SongPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Edit.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\SongPage\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:33:21.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Service\\SongService.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Service\\SongService.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Service\\SongService.cs",
+              "RelativeToolTip": "MusicLyrics\\Service\\SongService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:30:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\Song.cs",
+              "RelativeToolTip": "MusicLyrics\\Models\\Song.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:56:55.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\SongController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\SongController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\SongController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\SongController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:03:10.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250303192041_songupdated.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250303192041_songupdated.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Data\\Migrations\\20250303192041_songupdated.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250303192041_songupdated.cs",
+              "RelativeToolTip": "MusicLyrics\\Data\\Migrations\\20250303192041_songupdated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:20:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Songs.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Songs.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Songs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-03T19:21:05.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\ArtistPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Details.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\ArtistPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:27:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\Artist.cs",
+              "RelativeToolTip": "MusicLyrics\\Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:38:46.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\SongViewModel.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Models\\SongViewModel.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\SongViewModel.cs",
+              "RelativeToolTip": "MusicLyrics\\Models\\SongViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:13:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlbumPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\AlbumPageController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\AlbumPageController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\AlbumPageController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\AlbumPageController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgv0IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:20:33.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArtistPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\ArtistPageController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\ArtistPageController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\ArtistPageController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\ArtistPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:26:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlbumViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\AlbumViewModel.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Models\\AlbumViewModel.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\AlbumViewModel.cs",
+              "RelativeToolTip": "MusicLyrics\\Models\\AlbumViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:00:52.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\AlbumPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Create.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\AlbumPage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:22:25.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Models\\Album.cs",
+              "RelativeToolTip": "MusicLyrics\\Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:45:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlbumService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Service\\AlbumService.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Service\\AlbumService.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Service\\AlbumService.cs",
+              "RelativeToolTip": "MusicLyrics\\Service\\AlbumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:18:58.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\ArtistPage\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Create.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\ArtistPage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:28:07.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAlbumService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Interface\\IAlbumService.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Interface\\IAlbumService.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Interface\\IAlbumService.cs",
+              "RelativeToolTip": "MusicLyrics\\Interface\\IAlbumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:18:14.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Service\\ArtistService.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Service\\ArtistService.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Service\\ArtistService.cs",
+              "RelativeToolTip": "MusicLyrics\\Service\\ArtistService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:25:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IArtistService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Interface\\IArtistService.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Interface\\IArtistService.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Interface\\IArtistService.cs",
+              "RelativeToolTip": "MusicLyrics\\Interface\\IArtistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:25:17.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T23:41:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Program.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Program.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Program.cs",
+              "RelativeToolTip": "MusicLyrics\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:39:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\SongPage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\SongPage\\Delete.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\SongPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:33:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISongService.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Interface\\ISongService.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Interface\\ISongService.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Interface\\ISongService.cs",
+              "RelativeToolTip": "MusicLyrics\\Interface\\ISongService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T02:30:17.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\ArtistPage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Delete.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\ArtistPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:28:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\ArtistPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Edit.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\ArtistPage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:28:33.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\ArtistPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\ArtistPage\\Index.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\ArtistPage\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:27:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\AlbumPage\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Delete.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\AlbumPage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:23:11.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\ArtistController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:55:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\AlbumPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Edit.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\AlbumPage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:22:48.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\AlbumPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Details.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\AlbumPage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:22:08.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicLyrics\\Views\\AlbumPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Views\\AlbumPage\\Index.cshtml",
+              "RelativeToolTip": "MusicLyrics\\Views\\AlbumPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T02:21:43.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\AlbumController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:06:10.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MusicLyrics\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:42:04.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MusicLyrics\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:03:34.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.Albums.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Albums.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Albums.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-12T15:53:44.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.Artist.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Artist.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MusicLyrics_f15be9cb_ef24_4c42_b362_8cb82d75c0c7/True/SqlTable/dbo.Artist.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-14T23:46:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250212155915_Song.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250212155915_Song.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Data\\Migrations\\20250212155915_Song.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250212155915_Song.cs",
+              "RelativeToolTip": "MusicLyrics\\Data\\Migrations\\20250212155915_Song.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:59:15.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250212154907_Album.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250212154907_Album.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Data\\Migrations\\20250212154907_Album.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250212154907_Album.cs",
+              "RelativeToolTip": "MusicLyrics\\Data\\Migrations\\20250212154907_Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:49:07.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250212154331_artist.cs",
+              "DocumentMoniker": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250212154331_artist.cs",
+              "RelativeDocumentMoniker": "MusicLyrics\\Data\\Migrations\\20250212154331_artist.cs",
+              "ToolTip": "C:\\Users\\Rohit kumar\\Downloads\\MusicLyrics\\MusicLyrics\\MusicLyrics\\MusicLyrics\\Data\\Migrations\\20250212154331_artist.cs",
+              "RelativeToolTip": "MusicLyrics\\Data\\Migrations\\20250212154331_artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:43:32.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

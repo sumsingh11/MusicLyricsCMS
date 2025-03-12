@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MusicLyrics.Models.AlbumDTO>
+
+<h1>Album List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Release Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var album in Model)
+        {
+            <tr>
+                <td>@album.Title</td>
+                <td>@album.ReleaseDate?.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = album.AlbumId })" class="btn btn-info">Details</a>
+                    <a href="@Url.Action("Edit", new { id = album.AlbumId })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", new { id = album.AlbumId })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="btn btn-primary">Create New Album</a>

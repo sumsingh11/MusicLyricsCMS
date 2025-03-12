@@ -1,0 +1,12 @@
+﻿@model MusicLyrics.Models.AlbumDTO
+
+<h1>Delete Album</h1>
+
+<p>Are you sure you want to delete the album "@Model.Title"?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="AlbumId" value="@Model.AlbumId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>

@@ -1,0 +1,10 @@
+﻿@model MusicLyrics.Models.AlbumDTO
+
+<h1>@Model.Title</h1>
+<p><strong>Release Date:</strong> @Model.ReleaseDate?.ToString("yyyy-MM-dd")</p>
+<p><strong>Artist ID:</strong> @Model.ArtistId</p>
+<p><strong>Cover Image:</strong> <img src="@Model.CoverImage" alt="Cover Image" /></p>
+
+<a href="@Url.Action("Edit", new { id = Model.AlbumId })" class="btn btn-warning">Edit</a>
+<a href="@Url.Action("Delete", new { id = Model.AlbumId })" class="btn btn-danger">Delete</a>
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

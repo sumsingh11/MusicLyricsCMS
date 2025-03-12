@@ -1,0 +1,42 @@
+﻿@model MusicLyrics.Models.SongViewModel
+
+<h1>Create Song</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Song.Title">Title</label>
+        <input asp-for="Song.Title" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Song.ArtistId">Artist</label>
+        <select asp-for="Song.ArtistId" asp-items="Model.Artists" class="form-control" required>
+            <option value="">Select an Artist</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Song.AlbumId">Album</label>
+        <select asp-for="Song.AlbumId" asp-items="Model.Albums" class="form-control">
+            <option value="">Select an Album</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Song.Genre">Genre</label>
+        <input asp-for="Song.Genre" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Song.ReleaseDate">Release Date</label>
+        <input asp-for="Song.ReleaseDate" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Song.Lyrics">Lyrics</label>
+        <input asp-for="Song.Lyrics" type="text" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

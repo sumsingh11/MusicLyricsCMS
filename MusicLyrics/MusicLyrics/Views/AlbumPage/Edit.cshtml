@@ -1,0 +1,26 @@
+﻿@model MusicLyrics.Models.AlbumDTO
+
+<h1>Edit Album</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="AlbumId" value="@Model.AlbumId" />
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" value="@Model.Title" required />
+    </div>
+    <div class="form-group">
+        <label for="ReleaseDate">Release Date</label>
+        <input type="date" class="form-control" id="ReleaseDate" name="ReleaseDate" value="@Model.ReleaseDate?.ToString("yyyy-MM-dd")" />
+    </div>
+    <div class="form-group">
+        <label for="CoverImage">Cover Image URL</label>
+        <input type="text" class="form-control" id="CoverImage" name="CoverImage" value="@Model.CoverImage" />
+    </div>
+    <div class="form-group">
+        <label for="ArtistId">Artist ID</label>
+        <input type="number" class="form-control" id="ArtistId" name="ArtistId" value="@Model.ArtistId" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

@@ -1,0 +1,12 @@
+﻿@model MusicLyrics.Models.SongViewModel
+
+<h1>@Model.Song.Title</h1>
+<p><strong>Artist:</strong> @Model.ArtistName</p>
+<p><strong>Album:</strong> @Model.AlbumTitle</p>
+<p><strong>Genre:</strong> @Model.Song.Genre</p>
+<p><strong>Lyrics:</strong> @Model.Song.Lyrics</p>
+<p><strong>Release Date:</strong> @Model.Song.ReleaseDate?.ToString("yyyy-MM-dd")</p>
+
+<a href="@Url.Action("Edit", new { id = Model.Song.SongId })" class="btn btn-warning">Edit</a>
+<a href="@Url.Action("Delete", new { id = Model.Song.SongId })" class="btn btn-danger">Delete</a>
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

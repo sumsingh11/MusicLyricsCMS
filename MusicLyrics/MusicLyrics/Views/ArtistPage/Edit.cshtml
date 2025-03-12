@@ -1,0 +1,22 @@
+﻿@model MusicLyrics.Models.ArtistDTO
+
+<h1>Edit Artist</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="ArtistId" value="@Model.ArtistId" />
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="Bio">Bio</label>
+        <textarea class="form-control" id="Bio" name="Bio" required>@Model.Bio</textarea>
+    </div>
+    <div class="form-group">
+        <label for="CreatedAt">Created At</label>
+        <input type="date" class="form-control" id="CreatedAt" name="CreatedAt" value="@Model.CreatedAt.ToString("yyyy-MM-dd")" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

@@ -1,0 +1,12 @@
+﻿@model MusicLyrics.Models.ArtistDTO
+
+<h1>Delete Artist</h1>
+
+<p>Are you sure you want to delete the artist "@Model.Name"?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="ArtistId" value="@Model.ArtistId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
